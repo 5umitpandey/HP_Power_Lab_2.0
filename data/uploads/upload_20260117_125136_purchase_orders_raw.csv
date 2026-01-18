@@ -1,0 +1,217 @@
+po_id,item_description,unit_price,quantity,unit,po_date,region,department,supplier
+PO001,CS Pipe 100mm dia,1200,10,pcs,2024-01-01,North,Maintenance,ABC Metals
+PO002,Carbon Steel Pipe Dia 100 mm,1180,8,pcs,2024-01-01,North,Maintenance,ABC Metals
+PO003,CS PIPE 4 inch diameter,1250,6,pcs,2024-01-02,North,Maintenance,XYZ Traders
+PO004,Carbon steel pipe 100 mm OD,1210,9,pcs,2024-01-02,East,Maintenance,XYZ Traders
+PO005,CS pipe dia 100mm,1195,7,pcs,2024-01-03,East,Maintenance,ABC Metals
+PO006,Carbon Steel Pipe 4 in,1240,5,pcs,2024-01-03,West,Maintenance,SteelHub
+PO007,CS PIPE 100 MM,1220,12,pcs,2024-01-04,South,Maintenance,SteelHub
+PO008,Carbon steel pipeline 100mm,1230,11,pcs,2024-01-04,South,Maintenance,ABC Metals
+PO009,CS Pipe OD 100 mm,1205,10,pcs,2024-01-05,North,Maintenance,XYZ Traders
+PO010,Carbon steel pipe 4 inch dia,1260,6,pcs,2024-01-05,North,Maintenance,XYZ Traders
+
+PO011,SS Pipe 50mm dia,2100,5,pcs,2024-01-06,South,Production,SteelCorp
+PO012,Stainless Steel Pipe 50 mm,2080,6,pcs,2024-01-06,South,Production,SteelCorp
+PO013,SS PIPE DIA 50MM,2120,4,pcs,2024-01-07,South,Production,MetalWorks
+PO014,Stainless steel pipe 2 inch,2150,5,pcs,2024-01-07,West,Production,MetalWorks
+PO015,SS pipe 50 mm OD,2095,7,pcs,2024-01-08,South,Production,SteelCorp
+PO016,Stainless Steel Pipeline 50mm,2110,6,pcs,2024-01-08,South,Production,SteelCorp
+PO017,SS Pipe 2 in dia,2140,5,pcs,2024-01-09,West,Production,BuildMart
+PO018,Stainless steel pipe dia 50 mm,2130,6,pcs,2024-01-09,South,Production,MetalWorks
+PO019,SS PIPE 50MM,2105,8,pcs,2024-01-10,South,Production,SteelCorp
+PO020,Stainless steel pipe OD 50mm,2125,5,pcs,2024-01-10,South,Production,SteelCorp
+
+PO021,Steel pipe 2 inch,900,15,pcs,2024-01-11,West,Construction,BuildMart
+PO022,Mild steel pipe 2 in,880,18,pcs,2024-01-11,West,Construction,BuildMart
+PO023,MS PIPE 2 INCH DIA,890,16,pcs,2024-01-12,West,Construction,InfraSupplies
+PO024,Mild steel pipeline 2 inch,910,14,pcs,2024-01-12,West,Construction,InfraSupplies
+PO025,Steel pipe dia 2 in,905,17,pcs,2024-01-13,West,Construction,BuildMart
+PO026,MS Pipe 2 inch OD,895,19,pcs,2024-01-13,West,Construction,InfraSupplies
+PO027,Steel pipe 50mm,920,15,pcs,2024-01-14,North,Construction,InfraSupplies
+PO028,Mild steel pipe 50 mm dia,915,16,pcs,2024-01-14,North,Construction,InfraSupplies
+PO029,MS PIPE 50MM,905,18,pcs,2024-01-15,North,Construction,BuildMart
+PO030,Steel pipe OD 50 mm,925,14,pcs,2024-01-15,North,Construction,BuildMart
+
+PO031,CS flange 100mm,1500,6,pcs,2024-01-16,North,Maintenance,ABC Metals
+PO032,Carbon steel flange dia 100 mm,1480,5,pcs,2024-01-16,North,Maintenance,ABC Metals
+PO033,CS FLANGE 4 inch,1520,7,pcs,2024-01-17,East,Maintenance,XYZ Traders
+PO034,Carbon Steel Flange 100 mm,1495,6,pcs,2024-01-17,East,Maintenance,XYZ Traders
+PO035,CS flange OD 100mm,1510,5,pcs,2024-01-18,South,Maintenance,SteelHub
+PO036,Carbon steel pipe flange 4 in,1530,6,pcs,2024-01-18,South,Maintenance,SteelHub
+PO037,CS FLANGE 100 MM,1505,7,pcs,2024-01-19,North,Maintenance,ABC Metals
+PO038,Carbon steel flange 100mm dia,1490,6,pcs,2024-01-19,North,Maintenance,XYZ Traders
+PO039,CS pipe flange 4 inch,1540,5,pcs,2024-01-20,East,Maintenance,SteelHub
+PO040,Carbon steel flange OD 100 mm,1500,6,pcs,2024-01-20,East,Maintenance,SteelHub
+
+PO041,Gate valve carbon steel 2 inch,4500,3,pcs,2024-01-21,North,Maintenance,ValveWorld
+PO042,CS gate valve 50mm,4450,4,pcs,2024-01-21,North,Maintenance,ValveWorld
+PO043,Carbon steel gate valve dia 2 in,4550,2,pcs,2024-01-22,East,Maintenance,FlowTech
+PO044,SS gate valve 1 inch,5200,3,pcs,2024-01-22,South,Maintenance,FlowTech
+PO045,Stainless steel gate valve 25 mm,5150,4,pcs,2024-01-23,South,Maintenance,ValveWorld
+
+PO046,Butterfly valve 4 inch,6800,2,pcs,2024-01-23,West,Maintenance,ValveWorld
+PO047,CS butterfly valve dia 100mm,6750,3,pcs,2024-01-24,West,Maintenance,FlowTech
+PO048,Butterfly valve carbon steel 100 mm,6900,2,pcs,2024-01-24,North,Maintenance,FlowTech
+
+PO049,Spiral wound gasket 4 inch,350,20,pcs,2024-01-25,North,Maintenance,GasketHouse
+PO050,SS spiral wound gasket 100mm,340,22,pcs,2024-01-25,North,Maintenance,GasketHouse
+PO051,Carbon steel gasket 4 in,330,18,pcs,2024-01-26,East,Maintenance,SealPro
+
+PO052,Hex bolt M16 50mm length,45,200,pcs,2024-01-26,East,Maintenance,FastenAll
+PO053,Hex bolt M16 x 50 mm,44,220,pcs,2024-01-27,North,Maintenance,FastenAll
+PO054,MS hex bolt 16mm 50 mm,43,210,pcs,2024-01-27,South,Maintenance,BoltKing
+PO055,Hex nut M16,18,300,pcs,2024-01-28,South,Maintenance,BoltKing
+PO056,MS nut 16 mm,17,320,pcs,2024-01-28,West,Maintenance,FastenAll
+
+PO057,Centrifugal pump 5 HP,85000,1,pcs,2024-01-29,West,Operations,PumpWorks
+PO058,Horizontal centrifugal pump 5hp,84500,1,pcs,2024-01-29,West,Operations,PumpWorks
+PO059,Process pump 5 HP motor,86000,1,pcs,2024-01-30,North,Operations,FlowMachines
+
+PO060,Oil filter cartridge 10 micron,1200,15,pcs,2024-01-30,North,Maintenance,FilterTech
+PO061,Lube oil filter 10 mic,1180,18,pcs,2024-01-31,East,Maintenance,FilterTech
+PO062,Hydraulic oil filter 10 micron,1250,12,pcs,2024-01-31,South,Maintenance,HydroCare
+
+PO063,Ball bearing 6205,650,40,pcs,2024-02-01,South,Maintenance,BearingMart
+PO064,Bearing 6205 ZZ,640,45,pcs,2024-02-01,West,Maintenance,BearingMart
+PO065,Deep groove bearing 6205,660,38,pcs,2024-02-02,North,Maintenance,RotaryParts
+
+PO066,Power cable 3 core 1.5 sq mm,90,500,meter,2024-02-02,North,Electrical,CableHouse
+PO067,Electrical cable 3C 1.5 sqmm,88,520,meter,2024-02-03,East,Electrical,CableHouse
+PO068,Cu power cable 3 core 1.5 mm,92,480,meter,2024-02-03,South,Electrical,WireTech
+
+PO069,Industrial lubricant oil grade 68,3200,10,litre,2024-02-04,South,Stores,LubeIndia
+PO070,Lubricating oil ISO 68,3150,12,litre,2024-02-04,West,Stores,LubeIndia
+PO071,Hydraulic oil grade 68,3300,8,litre,2024-02-05,North,Stores,OilServe
+
+PO072,Safety helmet yellow,450,50,pcs,2024-02-05,North,Safety,SafeGear
+PO073,Industrial safety helmet,440,55,pcs,2024-02-06,East,Safety,SafeGear
+PO074,Protective helmet ISI marked,460,48,pcs,2024-02-06,South,Safety,SecurePro
+
+PO075,Pressure gauge 0 to 10 bar,2200,6,pcs,2024-02-07,South,Instrumentation,GaugeTech
+PO076,Pressure gauge range 10 bar,2150,7,pcs,2024-02-07,West,Instrumentation,GaugeTech
+PO077,SS pressure gauge 10 bar,2250,5,pcs,2024-02-08,North,Instrumentation,InstruMart
+
+PO078,Thermocouple type K,1800,4,pcs,2024-02-08,North,Instrumentation,InstruMart
+PO079,Temperature sensor type K,1750,5,pcs,2024-02-09,East,Instrumentation,SensorHub
+PO080,K type thermocouple probe,1850,3,pcs,2024-02-09,South,Instrumentation,SensorHub
+
+PO081,LED Tube light 20W,450,100,pcs,2024-02-10,North,Electrical,BrightLight
+PO082,T8 LED tube 20 watt,440,110,pcs,2024-02-10,East,Electrical,BrightLight
+PO083,Industrial LED fitting 20W,465,90,pcs,2024-02-11,West,Electrical,WattSupplies
+PO084,Welding electrode E6013 3.15mm,1200,50,pkt,2024-02-11,South,Maintenance,WeldMaster
+PO085,Stick welding rod 3.15 mm,1180,55,pkt,2024-02-12,North,Maintenance,WeldMaster
+PO086,E6013 welding consumables,1225,45,pkt,2024-02-12,East,Maintenance,ArcSupplies
+PO087,Globe valve CS 50mm,5500,4,pcs,2024-02-13,North,Maintenance,ValveWorld
+PO088,Carbon steel globe valve 2 inch,5450,5,pcs,2024-02-13,West,Maintenance,FlowTech
+PO089,CS globe valve dia 2 in,5600,3,pcs,2024-02-14,South,Maintenance,ValveWorld
+PO090,Conveyor belt 3 ply 600mm,2800,50,meter,2024-02-14,East,Operations,BeltCorp
+PO091,Rubber conveyor belt 600 mm,2750,60,meter,2024-02-15,West,Operations,BeltCorp
+PO092,Nylon conveyor belt 24 inch,2900,40,meter,2024-02-15,North,Operations,MoveFast
+PO093,Air filter element AF25,3200,10,pcs,2024-02-16,South,Maintenance,FilterTech
+PO094,Compressor air filter AF25,3150,12,pcs,2024-02-16,North,Maintenance,FilterTech
+PO095,Filter cartridge AF 25,3300,8,pcs,2024-02-17,East,Maintenance,PureAir
+PO096,Safety shoes steel toe size 9,1850,25,pairs,2024-02-17,North,Safety,SafeGear
+PO097,Industrial safety boots sz 9,1800,30,pairs,2024-02-18,South,Safety,SafeGear
+PO098,Protective footwear size 43,1920,20,pairs,2024-02-18,West,Safety,SecurePro
+PO099,Copper cable 4 core 6 sq mm,280,300,meter,2024-02-19,North,Electrical,CableHouse
+PO100,Armoured cable 4C 6 sqmm,275,320,meter,2024-02-19,East,Electrical,CableHouse
+PO101,4 core 6mm Cu cable,295,280,meter,2024-02-20,South,Electrical,WireTech
+PO102,Centrifugal pump impeller,12500,2,pcs,2024-02-20,West,Maintenance,PumpWorks
+PO103,Pump impeller for 5HP unit,12300,3,pcs,2024-02-21,North,Maintenance,PumpWorks
+PO104,Spare impeller cast iron,12800,2,pcs,2024-02-21,South,Maintenance,FlowMachines
+PO105,Grinding wheel 4 inch,85,200,pcs,2024-02-22,East,Maintenance,ToolMart
+PO106,Abrasive disc 100mm,82,220,pcs,2024-02-22,North,Maintenance,ToolMart
+PO107,Cutting wheel for MS 100 mm,88,180,pcs,2024-02-23,West,Maintenance,SharpCut
+PO108,V-Belt B-64,450,20,pcs,2024-02-23,North,Maintenance,PowerDrive
+PO109,Industrial V belt B 64,440,25,pcs,2024-02-24,South,Maintenance,PowerDrive
+PO110,Transmission belt size B64,470,15,pcs,2024-02-24,East,Maintenance,BeltCorp
+PO111,SS Bolt M12 x 40mm,65,150,pcs,2024-02-25,South,Maintenance,BoltKing
+PO112,Stainless steel bolt 12mm x 40,64,160,pcs,2024-02-25,West,Maintenance,FastenAll
+PO113,SS hex head bolt M12,68,140,pcs,2024-02-26,North,Maintenance,BoltKing
+PO114,Hydraulic jack 20 ton,18500,2,pcs,2024-02-26,East,Maintenance,LiftTools
+PO115,Manual bottle jack 20T,18200,3,pcs,2024-02-27,North,Maintenance,LiftTools
+PO116,Heavy duty jack 20 ton cap,19000,1,pcs,2024-02-27,South,Maintenance,EquipStore
+PO117,Gland packing 12mm,1100,10,kg,2024-02-28,West,Maintenance,SealPro
+PO118,PTFE gland packing 12 mm,1080,12,kg,2024-02-28,North,Maintenance,SealPro
+PO119,Graphite packing rope 1/2 inch,1150,8,kg,2024-02-29,South,Maintenance,GasketHouse
+PO120,Pneumatic cylinder 40mm stroke,4200,5,pcs,2024-02-29,East,Operations,AirFlow
+PO121,Air cylinder 40 mm dia,4150,6,pcs,2024-03-01,North,Operations,AirFlow
+PO122,Compact cylinder 40mm,4350,4,pcs,2024-03-01,West,Operations,PneuTech
+PO123,Non-return valve 2 inch,3800,5,pcs,2024-03-02,South,Maintenance,ValveWorld
+PO124,NRV CS 50mm,3750,6,pcs,2024-03-02,East,Maintenance,ValveWorld
+PO125,Check valve carbon steel 50 mm,3900,4,pcs,2024-03-03,North,Maintenance,FlowTech
+PO126,Industrial grease EP2,450,25,kg,2024-03-03,West,Stores,LubeIndia
+PO127,Lithium base grease EP2,440,30,kg,2024-03-04,South,Stores,LubeIndia
+PO128,Multi purpose grease 25kg bucket,470,20,kg,2024-03-04,North,Stores,OilServe
+PO129,Solenoid valve 24V DC,2600,8,pcs,2024-03-05,East,Instrumentation,SensorHub
+PO130,Direct acting valve 24VDC,2550,10,pcs,2024-03-05,North,Instrumentation,SensorHub
+PO131,Coil valve 24 volts DC,2700,6,pcs,2024-03-06,South,Instrumentation,InstruMart
+PO132,Fire extinguisher ABC 5kg,2200,15,pcs,2024-03-06,North,Safety,SafeGear
+PO133,Dry powder extinguisher 5 kg,2150,18,pcs,2024-03-07,East,Safety,SafeGear
+PO134,ABC fire safety cylinder 5kg,2300,12,pcs,2024-03-07,West,Safety,SecurePro
+PO135,Digital multimeter,4800,5,pcs,2024-03-08,South,Electrical,WireTech
+PO136,Handheld multimeter digital,4750,6,pcs,2024-03-08,North,Electrical,WireTech
+PO137,Electrical testing meter,4950,4,pcs,2024-03-09,East,Electrical,CableHouse
+PO138,CS elbow 90 deg 100mm,850,25,pcs,2024-03-09,West,Maintenance,ABC Metals
+PO139,Carbon steel elbow 4 inch,830,30,pcs,2024-03-10,North,Maintenance,ABC Metals
+PO140,CS 90 degree elbow 100 mm,880,20,pcs,2024-03-10,South,Maintenance,XYZ Traders
+PO141,Mechanical seal 35mm,9500,4,pcs,2024-03-11,East,Maintenance,SealPro
+PO142,Pump shaft seal 35 mm,9350,5,pcs,2024-03-11,West,Maintenance,SealPro
+PO143,Cartridge seal 35mm dia,9800,3,pcs,2024-03-12,North,Maintenance,GasketHouse
+PO144,MS plate 10mm thick,65,1000,kg,2024-03-12,South,Construction,BuildMart
+PO145,Mild steel sheet 10 mm,63,1200,kg,2024-03-13,North,Construction,BuildMart
+PO146,MS flat plate 10mm,68,900,kg,2024-03-13,East,Construction,InfraSupplies
+PO147,Electric motor 10 HP,45000,2,pcs,2024-03-14,West,Operations,WattSupplies
+PO148,3 phase motor 10HP 1440rpm,44500,3,pcs,2024-03-14,North,Operations,WattSupplies
+PO149,Induction motor 10 HP,46000,2,pcs,2024-03-15,South,Operations,FlowMachines
+PO150,PVC pipe 110mm,450,100,meter,2024-03-15,East,Construction,BuildMart
+PO151,Polyvinyl pipe 110 mm dia,440,120,meter,2024-03-16,West,Construction,BuildMart
+PO152,UPVC pipe 4 inch,470,90,meter,2024-03-16,North,Construction,InfraSupplies
+PO153,Nylon rope 20mm,180,200,meter,2024-03-17,South,Stores,SecurePro
+PO154,Synthetic rope 20 mm,175,220,meter,2024-03-17,North,Stores,SecurePro
+PO155,Polypropylene rope 20mm,190,180,meter,2024-03-18,East,Stores,SafeGear
+PO156,Pressure switch 1-10 bar,3500,10,pcs,2024-03-18,West,Instrumentation,GaugeTech
+PO157,Adjustable pressure switch,3450,12,pcs,2024-03-19,North,Instrumentation,GaugeTech
+PO158,Pneumatic pressure switch,3650,8,pcs,2024-03-19,South,Instrumentation,InstruMart
+PO159,Coupling spacer type,5500,5,pcs,2024-03-20,East,Maintenance,RotaryParts
+PO160,Flexible coupling assembly,5400,6,pcs,2024-03-20,North,Maintenance,RotaryParts
+PO161,Motor pump coupling spacer,5700,4,pcs,2024-03-21,South,Maintenance,BearingMart
+PO162,Cotton waste white,85,500,kg,2024-03-21,West,Stores,SafeGear
+PO163,Cleaning cotton rags,82,550,kg,2024-03-22,North,Stores,SafeGear
+PO164,Industrial wiping cloth,90,450,kg,2024-03-22,East,Stores,SecurePro
+PO165,Level transmitter ultrasonic,28000,2,pcs,2024-03-23,South,Instrumentation,SensorHub
+PO166,Ultrasonic level sensor,27500,3,pcs,2024-03-23,West,Instrumentation,SensorHub
+PO167,Tank level transmitter,29000,2,pcs,2024-03-24,North,Instrumentation,InstruMart
+PO168,SS Tee 50mm,1250,10,pcs,2024-03-24,East,Maintenance,MetalWorks
+PO169,Stainless steel equal tee 2 in,1220,12,pcs,2024-03-25,North,Maintenance,MetalWorks
+PO170,SS 50 mm equal tee,1300,8,pcs,2024-03-25,South,Maintenance,SteelCorp
+PO171,Paint synthetic enamel Blue,380,50,litre,2024-03-26,West,Maintenance,ColorCo
+PO172,Industrial blue paint 20L drum,370,60,litre,2024-03-26,North,Maintenance,ColorCo
+PO173,Enamel coating blue color,400,40,litre,2024-03-27,East,Maintenance,PaintPro
+PO174,Air hose 1/2 inch,120,300,meter,2024-03-27,South,Maintenance,AirFlow
+PO175,Pneumatic hose pipe 12.5mm,115,350,meter,2024-03-28,West,Maintenance,AirFlow
+PO176,Rubber air hose 12mm ID,130,280,meter,2024-03-28,North,Maintenance,PneuTech
+PO177,Limit switch heavy duty,1850,20,pcs,2024-03-29,East,Electrical,WattSupplies
+PO178,Position limit switch,1800,25,pcs,2024-03-29,North,Electrical,WattSupplies
+PO179,Roller lever limit switch,1950,15,pcs,2024-03-30,South,Electrical,CableHouse
+PO180,Circuit breaker 3P 63A,4200,10,pcs,2024-03-30,West,Electrical,WireTech
+PO181,MCB 3 pole 63 Amp,4100,12,pcs,2024-03-31,North,Electrical,WireTech
+PO182,TP MCB 63A rating,4350,8,pcs,2024-03-31,East,Electrical,CableHouse
+PO183,Teflon tape 12mm,25,500,pcs,2024-04-01,South,Maintenance,SealPro
+PO184,PTFE thread seal tape,23,550,pcs,2024-04-01,West,Maintenance,SealPro
+PO185,Thread seal tape 1/2 inch,28,450,pcs,2024-04-02,North,Maintenance,GasketHouse
+PO186,Hand gloves leather,150,100,pairs,2024-04-02,East,Safety,SecurePro
+PO187,Industrial leather gloves,145,110,pairs,2024-04-03,South,Safety,SecurePro
+PO188,Safety hand gloves heavy duty,160,90,pairs,2024-04-03,North,Safety,SafeGear
+PO189,Ball valve SS 25mm,1850,15,pcs,2024-04-04,West,Maintenance,MetalWorks
+PO190,Stainless steel ball valve 1 in,1800,18,pcs,2024-04-04,North,Maintenance,MetalWorks
+PO191,SS 316 ball valve 25 mm,1950,12,pcs,2024-04-05,South,Maintenance,SteelCorp
+PO192,Silicon sealant clear,320,50,pcs,2024-04-05,East,Maintenance,SealPro
+PO193,RTV silicone adhesive,310,60,pcs,2024-04-06,West,Maintenance,SealPro
+PO194,Clear silicone cartridge 300ml,340,40,pcs,2024-04-06,North,Maintenance,GasketHouse
+PO195,Chain block 2 ton,8500,2,pcs,2024-04-07,South,Maintenance,LiftTools
+PO196,Manual chain hoist 2T,8300,3,pcs,2024-04-07,East,Maintenance,LiftTools
+PO197,Pulley block 2 ton capacity,8800,2,pcs,2024-04-08,North,Maintenance,EquipStore
+PO198,Sand paper grit 80,15,500,pcs,2024-04-08,West,Maintenance,ToolMart
+PO199,Emery paper 80 grit,14,550,pcs,2024-04-09,South,Maintenance,ToolMart
+PO200,Abrasive paper P80,18,450,pcs,2024-04-09,North,Maintenance,SharpCut

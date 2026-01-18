@@ -1,201 +1,101 @@
 po_id,item_description,canonical_item_name,item_code,category,confidence_score
-PO001,CS Pipe 100mm dia,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO002,Carbon Steel Pipe Dia 100 mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO003,CS PIPE 4 inch diameter,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO004,Carbon steel pipe 100 mm OD,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO005,CS pipe dia 100mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO006,Carbon Steel Pipe 4 in,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO007,CS PIPE 100 MM,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO008,Carbon steel pipeline 100mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO009,CS Pipe OD 100 mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO010,Carbon steel pipe 4 inch dia,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO011,SS Pipe 50mm dia,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO012,Stainless Steel Pipe 50 mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO013,SS PIPE DIA 50MM,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO014,Stainless steel pipe 2 inch,stainless steel pipe 2 inch,STAINLESS_STEEL_PIPE_2_INCH_d355,Pipe,0.95
-PO015,SS pipe 50 mm OD,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO016,Stainless Steel Pipeline 50mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO017,SS Pipe 2 in dia,stainless steel pipe 2 inch,STAINLESS_STEEL_PIPE_2_INCH_d355,Pipe,0.95
-PO018,Stainless steel pipe dia 50 mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO019,SS PIPE 50MM,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO020,Stainless steel pipe OD 50mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO021,Steel pipe 2 inch,stainless steel pipe 2 inch,STAINLESS_STEEL_PIPE_2_INCH_d355,Pipe,0.95
-PO022,Mild steel pipe 2 in,stainless steel pipe 2 inch,STAINLESS_STEEL_PIPE_2_INCH_d355,Pipe,0.95
-PO023,MS PIPE 2 INCH DIA,ms pipe 2 inch diameter,MS_PIPE_2_INCH_DIAMETER_e9af,Pipe,0.85
-PO024,Mild steel pipeline 2 inch,mild steel pipeline 2 inch,MILD_STEEL_PIPELINE_2_INCH_c65e,Pipe,0.75
-PO025,Steel pipe dia 2 in,stainless steel pipe 2 inch,STAINLESS_STEEL_PIPE_2_INCH_d355,Pipe,0.95
-PO026,MS Pipe 2 inch OD,ms pipe 2 inch diameter,MS_PIPE_2_INCH_DIAMETER_e9af,Pipe,0.85
-PO027,Steel pipe 50mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO028,Mild steel pipe 50 mm dia,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO029,MS PIPE 50MM,ms pipe 50mm,MS_PIPE_50MM_2b39,Pipe,0.75
-PO030,Steel pipe OD 50 mm,carbon steel pipe 100mm diameter,CARBON_STEEL_PIPE_100MM_DIAMETER_5f0c,Pipe,0.95
-PO031,CS flange 100mm,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO032,Carbon steel flange dia 100 mm,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO033,CS FLANGE 4 inch,carbon steel flange 4 inch,CARBON_STEEL_FLANGE_4_INCH_449c,Flange,0.85
-PO034,Carbon Steel Flange 100 mm,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO035,CS flange OD 100mm,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO036,Carbon steel pipe flange 4 in,carbon steel flange 4 inch,CARBON_STEEL_FLANGE_4_INCH_449c,Flange,0.85
-PO037,CS FLANGE 100 MM,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO038,Carbon steel flange 100mm dia,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO039,CS pipe flange 4 inch,carbon steel flange 4 inch,CARBON_STEEL_FLANGE_4_INCH_449c,Flange,0.85
-PO040,Carbon steel flange OD 100 mm,carbon steel flange 100mm,CARBON_STEEL_FLANGE_100MM_0881,Flange,0.95
-PO041,Gate valve carbon steel 2 inch,gate valve carbon steel 2 inch,GATE_VALVE_CARBON_STEEL_2_INCH_0218,Valve,0.85
-PO042,CS gate valve 50mm,carbon steel gate valve 50mm,CARBON_STEEL_GATE_VALVE_50MM_b7ef,Valve,0.75
-PO043,Carbon steel gate valve dia 2 in,gate valve carbon steel 2 inch,GATE_VALVE_CARBON_STEEL_2_INCH_0218,Valve,0.85
-PO044,SS gate valve 1 inch,stainless steel gate valve 1 inch,STAINLESS_STEEL_GATE_VALVE_1_INCH_4678,Valve,0.75
-PO045,Stainless steel gate valve 25 mm,stainless steel gate valve 25 mm,STAINLESS_STEEL_GATE_VALVE_25_MM_cafa,Valve,0.75
-PO046,Butterfly valve 4 inch,butterfly valve 4 inch,BUTTERFLY_VALVE_4_INCH_3e43,Valve,0.75
-PO047,CS butterfly valve dia 100mm,carbon steel butterfly valve diameter 100mm,CARBON_STEEL_BUTTERFLY_VALVE_DIAMETER_100MM_3afa,Valve,0.85
-PO048,Butterfly valve carbon steel 100 mm,carbon steel butterfly valve diameter 100mm,CARBON_STEEL_BUTTERFLY_VALVE_DIAMETER_100MM_3afa,Valve,0.85
-PO049,Spiral wound gasket 4 inch,spiral wound gasket 4 inch,SPIRAL_WOUND_GASKET_4_INCH_a8a4,Gasket,0.85
-PO050,SS spiral wound gasket 100mm,spiral wound gasket 4 inch,SPIRAL_WOUND_GASKET_4_INCH_a8a4,Gasket,0.85
-PO051,Carbon steel gasket 4 in,carbon steel gasket 4 in,CARBON_STEEL_GASKET_4_IN_0a39,Gasket,0.75
-PO052,Hex bolt M16 50mm length,hex bolt m16 50mm length,HEX_BOLT_M16_50MM_LENGTH_c94a,Fasteners,0.85
-PO053,Hex bolt M16 x 50 mm,hex bolt m16 50mm length,HEX_BOLT_M16_50MM_LENGTH_c94a,Fasteners,0.85
-PO054,MS hex bolt 16mm 50 mm,hex bolt m16 50mm length,HEX_BOLT_M16_50MM_LENGTH_c94a,Fasteners,0.85
-PO055,Hex nut M16,hex nut m16,HEX_NUT_M16_d21a,Fasteners,0.75
-PO056,MS nut 16 mm,ms nut 16 mm,MS_NUT_16_MM_17a2,Fasteners,0.75
-PO057,Centrifugal pump 5 HP,centrifugal pump 5 hp,CENTRIFUGAL_PUMP_5_HP_fbf5,Pump,0.75
-PO058,Horizontal centrifugal pump 5hp,horizontal centrifugal pump 5hp,HORIZONTAL_CENTRIFUGAL_PUMP_5HP_6c21,Pump,0.75
-PO059,Process pump 5 HP motor,process pump 5 hp motor,PROCESS_PUMP_5_HP_MOTOR_66d3,Pump,0.75
-PO060,Oil filter cartridge 10 micron,oil filter cartridge 10 micron,OIL_FILTER_CARTRIDGE_10_MICRON_2858,Lubricant,0.85
-PO061,Lube oil filter 10 mic,lube oil filter 10 mic,LUBE_OIL_FILTER_10_MIC_7b4a,Lubricant,0.75
-PO062,Hydraulic oil filter 10 micron,oil filter cartridge 10 micron,OIL_FILTER_CARTRIDGE_10_MICRON_2858,Lubricant,0.85
-PO063,Ball bearing 6205,ball bearing 6205,BALL_BEARING_6205_feb9,Bearing,0.75
-PO064,Bearing 6205 ZZ,bearing 6205 zz,BEARING_6205_ZZ_a6e6,Bearing,0.75
-PO065,Deep groove bearing 6205,deep groove bearing 6205,DEEP_GROOVE_BEARING_6205_b52e,Bearing,0.75
-PO066,Power cable 3 core 1.5 sq mm,power cable 3 core 1.5 sq mm,POWER_CABLE_3_CORE_1.5_SQ_MM_9c9f,Electrical Cable,0.75
-PO067,Electrical cable 3C 1.5 sqmm,electrical cable 3c 1.5 sqmm,ELECTRICAL_CABLE_3C_1.5_SQMM_e03f,Electrical Cable,0.75
-PO068,Cu power cable 3 core 1.5 mm,cu power cable 3 core 1.5 mm,CU_POWER_CABLE_3_CORE_1.5_MM_4da7,Electrical Cable,0.75
-PO069,Industrial lubricant oil grade 68,industrial lubricant oil grade 68,INDUSTRIAL_LUBRICANT_OIL_GRADE_68_ef54,Lubricant,0.75
-PO070,Lubricating oil ISO 68,lubricating oil iso 68,LUBRICATING_OIL_ISO_68_5eee,Lubricant,0.75
-PO071,Hydraulic oil grade 68,hydraulic oil grade 68,HYDRAULIC_OIL_GRADE_68_efb7,Lubricant,0.75
-PO072,Safety helmet yellow,safety helmet yellow,SAFETY_HELMET_YELLOW_e400,Safety Equipment,0.75
-PO073,Industrial safety helmet,industrial safety helmet,INDUSTRIAL_SAFETY_HELMET_7f0b,Safety Equipment,0.75
-PO074,Protective helmet ISI marked,protective helmet isi marked,PROTECTIVE_HELMET_ISI_MARKED_c53f,Safety Equipment,0.75
-PO075,Pressure gauge 0 to 10 bar,pressure gauge 0 to 10 bar,PRESSURE_GAUGE_0_TO_10_BAR_b52e,Instrumentation,0.85
-PO076,Pressure gauge range 10 bar,pressure gauge 0 to 10 bar,PRESSURE_GAUGE_0_TO_10_BAR_b52e,Instrumentation,0.85
-PO077,SS pressure gauge 10 bar,stainless steel pressure gauge 10 bar,STAINLESS_STEEL_PRESSURE_GAUGE_10_BAR_da71,Instrumentation,0.75
-PO078,Thermocouple type K,thermocouple type k,THERMOCOUPLE_TYPE_K_e144,Instrumentation,0.75
-PO079,Temperature sensor type K,temperature sensor type k,TEMPERATURE_SENSOR_TYPE_K_93d5,Instrumentation,0.75
-PO080,K type thermocouple probe,k type thermocouple probe,K_TYPE_THERMOCOUPLE_PROBE_3644,Instrumentation,0.75
-PO081,LED Tube light 20W,led tube light 20w,LED_TUBE_LIGHT_20W_7db6,Other,0.85
-PO082,T8 LED tube 20 watt,led tube light 20w,LED_TUBE_LIGHT_20W_7db6,Other,0.85
-PO083,Industrial LED fitting 20W,industrial led fitting 20w,INDUSTRIAL_LED_FITTING_20W_7e5a,Other,0.75
-PO084,Welding electrode E6013 3.15mm,welding electrode e6013 3.15mm,WELDING_ELECTRODE_E6013_3.15MM_0907,Other,0.75
-PO085,Stick welding rod 3.15 mm,stick welding rod 3.15 mm,STICK_WELDING_ROD_3.15_MM_06bf,Other,0.75
-PO086,E6013 welding consumables,e6013 welding consumables,E6013_WELDING_CONSUMABLES_2a48,Other,0.75
-PO087,Globe valve CS 50mm,globe valve carbon steel 50mm,GLOBE_VALVE_CARBON_STEEL_50MM_30b2,Valve,0.75
-PO088,Carbon steel globe valve 2 inch,carbon steel globe valve 2 inch,CARBON_STEEL_GLOBE_VALVE_2_INCH_f663,Valve,0.85
-PO089,CS globe valve dia 2 in,carbon steel globe valve 2 inch,CARBON_STEEL_GLOBE_VALVE_2_INCH_f663,Valve,0.85
-PO090,Conveyor belt 3 ply 600mm,conveyor belt 3 ply 600mm,CONVEYOR_BELT_3_PLY_600MM_c7b7,Other,0.75
-PO091,Rubber conveyor belt 600 mm,rubber conveyor belt 600 mm,RUBBER_CONVEYOR_BELT_600_MM_551f,Other,0.75
-PO092,Nylon conveyor belt 24 inch,nylon conveyor belt 24 inch,NYLON_CONVEYOR_BELT_24_INCH_e9fa,Other,0.75
-PO093,Air filter element AF25,air filter element af25,AIR_FILTER_ELEMENT_AF25_ca44,Other,0.75
-PO094,Compressor air filter AF25,compressor air filter af25,COMPRESSOR_AIR_FILTER_AF25_d645,Other,0.75
-PO095,Filter cartridge AF 25,filter cartridge af 25,FILTER_CARTRIDGE_AF_25_713b,Other,0.75
-PO096,Safety shoes steel toe size 9,safety shoes steel toe size 9,SAFETY_SHOES_STEEL_TOE_SIZE_9_6007,Safety Equipment,0.75
-PO097,Industrial safety boots sz 9,industrial safety boots sz 9,INDUSTRIAL_SAFETY_BOOTS_SZ_9_bd82,Safety Equipment,0.75
-PO098,Protective footwear size 43,protective footwear size 43,PROTECTIVE_FOOTWEAR_SIZE_43_e7b8,Other,0.75
-PO099,Copper cable 4 core 6 sq mm,copper cable 4 core 6 sq mm,COPPER_CABLE_4_CORE_6_SQ_MM_40b9,Electrical Cable,0.85
-PO100,Armoured cable 4C 6 sqmm,armoured cable 4c 6 sqmm,ARMOURED_CABLE_4C_6_SQMM_366f,Electrical Cable,0.75
-PO101,4 core 6mm Cu cable,copper cable 4 core 6 sq mm,COPPER_CABLE_4_CORE_6_SQ_MM_40b9,Electrical Cable,0.85
-PO102,Centrifugal pump impeller,centrifugal pump impeller,CENTRIFUGAL_PUMP_IMPELLER_0e1e,Pump,0.75
-PO103,Pump impeller for 5HP unit,pump impeller for 5hp unit,PUMP_IMPELLER_FOR_5HP_UNIT_abc2,Pump,0.75
-PO104,Spare impeller cast iron,spare impeller cast iron,SPARE_IMPELLER_CAST_IRON_e81e,Other,0.75
-PO105,Grinding wheel 4 inch,grinding wheel 4 inch,GRINDING_WHEEL_4_INCH_ba12,Other,0.75
-PO106,Abrasive disc 100mm,abrasive disc 100mm,ABRASIVE_DISC_100MM_07ce,Other,0.75
-PO107,Cutting wheel for MS 100 mm,cutting wheel for ms 100 mm,CUTTING_WHEEL_FOR_MS_100_MM_38c0,Other,0.75
-PO108,V-Belt B-64,v belt b 64,V_BELT_B_64_86cd,Other,0.85
-PO109,Industrial V belt B 64,v belt b 64,V_BELT_B_64_86cd,Other,0.85
-PO110,Transmission belt size B64,transmission belt size b64,TRANSMISSION_BELT_SIZE_B64_d29a,Other,0.75
-PO111,SS Bolt M12 x 40mm,stainless steel bolt m12 x 40mm,STAINLESS_STEEL_BOLT_M12_X_40MM_6f94,Fasteners,0.85
-PO112,Stainless steel bolt 12mm x 40,stainless steel bolt m12 x 40mm,STAINLESS_STEEL_BOLT_M12_X_40MM_6f94,Fasteners,0.85
-PO113,SS hex head bolt M12,stainless steel hex head bolt m12,STAINLESS_STEEL_HEX_HEAD_BOLT_M12_a64e,Fasteners,0.75
-PO114,Hydraulic jack 20 ton,hydraulic jack 20 ton,HYDRAULIC_JACK_20_TON_0965,Other,0.75
-PO115,Manual bottle jack 20T,manual bottle jack 20t,MANUAL_BOTTLE_JACK_20T_8cc6,Other,0.75
-PO116,Heavy duty jack 20 ton cap,heavy duty jack 20 ton cap,HEAVY_DUTY_JACK_20_TON_CAP_144b,Other,0.75
-PO117,Gland packing 12mm,gland packing 12mm,GLAND_PACKING_12MM_285e,Other,0.75
-PO118,PTFE gland packing 12 mm,ptfe gland packing 12 mm,PTFE_GLAND_PACKING_12_MM_debd,Other,0.75
-PO119,Graphite packing rope 1/2 inch,graphite packing rope 1 2 inch,GRAPHITE_PACKING_ROPE_1_2_INCH_033b,Other,0.75
-PO120,Pneumatic cylinder 40mm stroke,pneumatic cylinder 40mm stroke,PNEUMATIC_CYLINDER_40MM_STROKE_29ee,Other,0.75
-PO121,Air cylinder 40 mm dia,air cylinder 40 mm diameter,AIR_CYLINDER_40_MM_DIAMETER_19b7,Other,0.75
-PO122,Compact cylinder 40mm,compact cylinder 40mm,COMPACT_CYLINDER_40MM_498f,Other,0.75
-PO123,Non-return valve 2 inch,non return valve 2 inch,NON_RETURN_VALVE_2_INCH_5637,Valve,0.75
-PO124,NRV CS 50mm,nrv carbon steel 50mm,NRV_CARBON_STEEL_50MM_f37a,Other,0.75
-PO125,Check valve carbon steel 50 mm,check valve carbon steel 50 mm,CHECK_VALVE_CARBON_STEEL_50_MM_dcf3,Valve,0.75
-PO126,Industrial grease EP2,industrial grease ep2,INDUSTRIAL_GREASE_EP2_0c45,Other,0.75
-PO127,Lithium base grease EP2,lithium base grease ep2,LITHIUM_BASE_GREASE_EP2_d1d1,Other,0.75
-PO128,Multi purpose grease 25kg bucket,multi purpose grease 25kg bucket,MULTI_PURPOSE_GREASE_25KG_BUCKET_50c3,Other,0.75
-PO129,Solenoid valve 24V DC,solenoid valve 24v dc,SOLENOID_VALVE_24V_DC_cd83,Valve,0.75
-PO130,Direct acting valve 24VDC,direct acting valve 24vdc,DIRECT_ACTING_VALVE_24VDC_181b,Valve,0.75
-PO131,Coil valve 24 volts DC,coil valve 24 volts dc,COIL_VALVE_24_VOLTS_DC_2906,Valve,0.75
-PO132,Fire extinguisher ABC 5kg,fire extinguisher abc 5kg,FIRE_EXTINGUISHER_ABC_5KG_719c,Other,0.75
-PO133,Dry powder extinguisher 5 kg,dry powder extinguisher 5 kg,DRY_POWDER_EXTINGUISHER_5_KG_8ea6,Other,0.75
-PO134,ABC fire safety cylinder 5kg,abc fire safety cylinder 5kg,ABC_FIRE_SAFETY_CYLINDER_5KG_1393,Safety Equipment,0.75
-PO135,Digital multimeter,digital multimeter,DIGITAL_MULTIMETER_507e,Other,0.85
-PO136,Handheld multimeter digital,digital multimeter,DIGITAL_MULTIMETER_507e,Other,0.85
-PO137,Electrical testing meter,electrical testing meter,ELECTRICAL_TESTING_METER_ec25,Other,0.75
-PO138,CS elbow 90 deg 100mm,carbon steel elbow 90 deg 100mm,CARBON_STEEL_ELBOW_90_DEG_100MM_710c,Other,0.85
-PO139,Carbon steel elbow 4 inch,carbon steel elbow 4 inch,CARBON_STEEL_ELBOW_4_INCH_de65,Other,0.75
-PO140,CS 90 degree elbow 100 mm,carbon steel elbow 90 deg 100mm,CARBON_STEEL_ELBOW_90_DEG_100MM_710c,Other,0.85
-PO141,Mechanical seal 35mm,mechanical seal 35mm,MECHANICAL_SEAL_35MM_bbf9,Other,0.75
-PO142,Pump shaft seal 35 mm,pump shaft seal 35 mm,PUMP_SHAFT_SEAL_35_MM_9d57,Pump,0.75
-PO143,Cartridge seal 35mm dia,cartridge seal 35mm diameter,CARTRIDGE_SEAL_35MM_DIAMETER_7182,Other,0.75
-PO144,MS plate 10mm thick,ms plate 10mm thick,MS_PLATE_10MM_THICK_6582,Other,0.85
-PO145,Mild steel sheet 10 mm,mild steel sheet 10 mm,MILD_STEEL_SHEET_10_MM_25a2,Other,0.75
-PO146,MS flat plate 10mm,ms plate 10mm thick,MS_PLATE_10MM_THICK_6582,Other,0.85
-PO147,Electric motor 10 HP,electric motor 10 hp,ELECTRIC_MOTOR_10_HP_a32b,Other,0.75
-PO148,3 phase motor 10HP 1440rpm,3 phase motor 10hp 1440rpm,3_PHASE_MOTOR_10HP_1440RPM_0086,Other,0.75
-PO149,Induction motor 10 HP,induction motor 10 hp,INDUCTION_MOTOR_10_HP_567d,Other,0.75
-PO150,PVC pipe 110mm,pvc pipe 110mm,PVC_PIPE_110MM_e18a,Pipe,0.75
-PO151,Polyvinyl pipe 110 mm dia,polyvinyl pipe 110 mm diameter,POLYVINYL_PIPE_110_MM_DIAMETER_3bc6,Pipe,0.75
-PO152,UPVC pipe 4 inch,upvc pipe 4 inch,UPVC_PIPE_4_INCH_4551,Pipe,0.75
-PO153,Nylon rope 20mm,nylon rope 20mm,NYLON_ROPE_20MM_20cd,Other,0.85
-PO154,Synthetic rope 20 mm,nylon rope 20mm,NYLON_ROPE_20MM_20cd,Other,0.85
-PO155,Polypropylene rope 20mm,polypropylene rope 20mm,POLYPROPYLENE_ROPE_20MM_f1d6,Other,0.75
-PO156,Pressure switch 1-10 bar,pressure switch 1 10 bar,PRESSURE_SWITCH_1_10_BAR_e0bc,Other,0.75
-PO157,Adjustable pressure switch,adjustable pressure switch,ADJUSTABLE_PRESSURE_SWITCH_23ef,Other,0.75
-PO158,Pneumatic pressure switch,pneumatic pressure switch,PNEUMATIC_PRESSURE_SWITCH_4726,Other,0.75
-PO159,Coupling spacer type,coupling spacer type,COUPLING_SPACER_TYPE_c7fa,Other,0.75
-PO160,Flexible coupling assembly,flexible coupling assembly,FLEXIBLE_COUPLING_ASSEMBLY_104b,Other,0.75
-PO161,Motor pump coupling spacer,motor pump coupling spacer,MOTOR_PUMP_COUPLING_SPACER_7052,Pump,0.75
-PO162,Cotton waste white,cotton waste white,COTTON_WASTE_WHITE_d27f,Other,0.75
-PO163,Cleaning cotton rags,cleaning cotton rags,CLEANING_COTTON_RAGS_1ef3,Other,0.75
-PO164,Industrial wiping cloth,industrial wiping cloth,INDUSTRIAL_WIPING_CLOTH_757a,Other,0.75
-PO165,Level transmitter ultrasonic,level transmitter ultrasonic,LEVEL_TRANSMITTER_ULTRASONIC_faa3,Other,0.75
-PO166,Ultrasonic level sensor,ultrasonic level sensor,ULTRASONIC_LEVEL_SENSOR_3f1e,Instrumentation,0.75
-PO167,Tank level transmitter,tank level transmitter,TANK_LEVEL_TRANSMITTER_9a21,Other,0.75
-PO168,SS Tee 50mm,stainless steel tee 50mm,STAINLESS_STEEL_TEE_50MM_7a01,Other,0.85
-PO169,Stainless steel equal tee 2 in,stainless steel equal tee 2 in,STAINLESS_STEEL_EQUAL_TEE_2_IN_c155,Other,0.75
-PO170,SS 50 mm equal tee,stainless steel tee 50mm,STAINLESS_STEEL_TEE_50MM_7a01,Other,0.85
-PO171,Paint synthetic enamel Blue,paint synthetic enamel blue,PAINT_SYNTHETIC_ENAMEL_BLUE_ef41,Other,0.75
-PO172,Industrial blue paint 20L drum,industrial blue paint 20l drum,INDUSTRIAL_BLUE_PAINT_20L_DRUM_b0be,Other,0.75
-PO173,Enamel coating blue color,enamel coating blue color,ENAMEL_COATING_BLUE_COLOR_f879,Other,0.75
-PO174,Air hose 1/2 inch,air hose 1 2 inch,AIR_HOSE_1_2_INCH_c6d8,Other,0.75
-PO175,Pneumatic hose pipe 12.5mm,pneumatic hose pipe 12.5mm,PNEUMATIC_HOSE_PIPE_12.5MM_1440,Pipe,0.75
-PO176,Rubber air hose 12mm ID,rubber air hose 12mm inner diameter,RUBBER_AIR_HOSE_12MM_INNER_DIAMETER_8f84,Other,0.75
-PO177,Limit switch heavy duty,limit switch heavy duty,LIMIT_SWITCH_HEAVY_DUTY_460e,Other,0.75
-PO178,Position limit switch,position limit switch,POSITION_LIMIT_SWITCH_f815,Other,0.75
-PO179,Roller lever limit switch,roller lever limit switch,ROLLER_LEVER_LIMIT_SWITCH_74ae,Other,0.75
-PO180,Circuit breaker 3P 63A,circuit breaker 3p 63a,CIRCUIT_BREAKER_3P_63A_3b97,Other,0.75
-PO181,MCB 3 pole 63 Amp,mcb 3 pole 63 amp,MCB_3_POLE_63_AMP_157f,Other,0.75
-PO182,TP MCB 63A rating,tp mcb 63a rating,TP_MCB_63A_RATING_1996,Other,0.75
-PO183,Teflon tape 12mm,teflon tape 12mm,TEFLON_TAPE_12MM_05f8,Other,0.75
-PO184,PTFE thread seal tape,ptfe thread seal tape,PTFE_THREAD_SEAL_TAPE_f00d,Other,0.75
-PO185,Thread seal tape 1/2 inch,thread seal tape 1 2 inch,THREAD_SEAL_TAPE_1_2_INCH_24b7,Other,0.75
-PO186,Hand gloves leather,hand gloves leather,HAND_GLOVES_LEATHER_8103,Other,0.85
-PO187,Industrial leather gloves,hand gloves leather,HAND_GLOVES_LEATHER_8103,Other,0.85
-PO188,Safety hand gloves heavy duty,safety hand gloves heavy duty,SAFETY_HAND_GLOVES_HEAVY_DUTY_6fc8,Safety Equipment,0.75
-PO189,Ball valve SS 25mm,ball valve stainless steel 25mm,BALL_VALVE_STAINLESS_STEEL_25MM_638c,Valve,0.85
-PO190,Stainless steel ball valve 1 in,stainless steel ball valve 1 in,STAINLESS_STEEL_BALL_VALVE_1_IN_a056,Valve,0.75
-PO191,SS 316 ball valve 25 mm,ball valve stainless steel 25mm,BALL_VALVE_STAINLESS_STEEL_25MM_638c,Valve,0.85
-PO192,Silicon sealant clear,silicon sealant clear,SILICON_SEALANT_CLEAR_67b3,Other,0.75
-PO193,RTV silicone adhesive,rtv silicone adhesive,RTV_SILICONE_ADHESIVE_e04d,Other,0.75
-PO194,Clear silicone cartridge 300ml,clear silicone cartridge 300ml,CLEAR_SILICONE_CARTRIDGE_300ML_6cc0,Other,0.75
-PO195,Chain block 2 ton,chain block 2 ton,CHAIN_BLOCK_2_TON_cbe2,Other,0.75
-PO196,Manual chain hoist 2T,manual chain hoist 2t,MANUAL_CHAIN_HOIST_2T_3002,Other,0.75
-PO197,Pulley block 2 ton capacity,pulley block 2 ton capacity,PULLEY_BLOCK_2_TON_CAPACITY_9a2f,Other,0.75
-PO198,Sand paper grit 80,sand paper grit 80,SAND_PAPER_GRIT_80_c236,Other,0.75
-PO199,Emery paper 80 grit,emery paper 80 grit,EMERY_PAPER_80_GRIT_157d,Other,0.75
-PO200,Abrasive paper P80,abrasive paper p80,ABRASIVE_PAPER_P80_33b9,Other,0.75
+PO001,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO002,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO003,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO004,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO005,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO006,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO007,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO008,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO009,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO010,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO011,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO012,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO013,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO014,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO015,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO016,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO017,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO018,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO019,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO020,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO021,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO022,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO023,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO024,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO025,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO026,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO027,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO028,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO029,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO030,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO031,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO032,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO033,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO034,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO035,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO036,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO037,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO038,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO039,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO040,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO041,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO042,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO043,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO044,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO045,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO046,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO047,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO048,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO049,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO050,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO051,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO052,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO053,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO054,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO055,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO056,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO057,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO058,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO059,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO060,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO061,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO062,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO063,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO064,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO065,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO066,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO067,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO068,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO069,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO070,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO071,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO072,GI Pipe 50mm,gi pipe 50mm,GI_PIPE_50MM_dad0,Pipe,0.95
+PO073,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO074,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO075,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO076,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO077,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO078,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO079,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO080,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO081,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO082,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO083,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO084,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO085,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO086,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO087,CS Pipe 6 inch,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO088,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO089,MS Pipe 100mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO090,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO091,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO092,Stainless Steel Pipe 40mm,stainless steel pipe 40mm,STAINLESS_STEEL_PIPE_40MM_96da,Pipe,0.95
+PO093,MS Pipe 80mm,ms pipe 80mm,MS_PIPE_80MM_48b5,Pipe,0.95
+PO094,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO095,Carbon steel pipe 100 mm OD,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO096,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO097,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO098,Carbon Steel Pipe Dia 100 mm,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO099,CS Pipe 100mm dia,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95
+PO100,CS PIPE 4 inch diameter,carbon steel pipe diameter 100 mm,CARBON_STEEL_PIPE_DIAMETER_100_MM_6a68,Pipe,0.95

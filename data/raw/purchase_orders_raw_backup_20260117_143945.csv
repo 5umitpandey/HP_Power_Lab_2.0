@@ -1,0 +1,4 @@
+po_id,item_description,unit_price,quantity,unit,po_date,region,department,supplier
+PO001,Carbon Steel Pipe 100mm,1200.0,10,pcs,2024-01-01,North,Maintenance,ABC Metals
+PO002,Stainless Steel Valve 2 inch,5000.0,5,pcs,2024-01-02,South,Production,ValveWorld
+PO003,Gate Valve CS 50mm,4500.0,3,pcs,2024-01-03,East,Maintenance,FlowTech
